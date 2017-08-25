@@ -1,2 +1,2 @@
-# C-Net
+# C socket programming
 Work on Linux(Ubuntu).
