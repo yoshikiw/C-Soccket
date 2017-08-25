@@ -1,2 +1,3 @@
 # C socket programming
-Work on Linux(Ubuntu).
+Ubuntu(Linux)で動きます。
+C言語でのSocketプログラミングのテストです。
